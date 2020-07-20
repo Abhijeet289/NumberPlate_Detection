@@ -191,3 +191,4 @@ We assume camera to be static.
 <hr/>
 
 • ⚠️ This is a basic project and not useful for production. We followed many blogs and data is collected from kaggle, google images and some repos.
+# NumberPlate_Detection
